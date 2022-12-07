@@ -1,11 +1,11 @@
-# Searching-the-formula
+
+# Searching the formula
+
 "The definition of insanity is doing the same thing repeatedly and expecting different results" - Rita Mae Brown. (but probably someone has said this before her, and that's not the definition of insanity either).
 
 I've been trying to have my own company or startup for a long time, and I always fail and consistently fail at the same thing, selling a ready-made product.
 
 I will do it differently this time, not that this way is right or will work, but differently.
-
-I will allocate daily time to carry out the tasks for 50 minutes per weekday from 8:00 pm to 8:50 pm. And two hours on Saturdays and Sundays.
 
 The big difference is that now I will try to sell the project from the beginning.
 
@@ -26,3 +26,54 @@ From today 07/12/2022, until 11/12/2023, which is 423 hours.
 I will publish all my advances, errors, and successes (if any) over time weekly.
 
 Let the challenge begin.
+
+## Installation
+
+Install my-project with npm
+
+```bash
+  npm install my-project
+  cd my-project
+```
+    
+## Documentation
+
+[Documentation](https://linktodocumentation)
+
+
+## Authors
+
+- [@octokatherine](https://www.github.com/octokatherine)
+
+
+## API Reference
+
+#### Get all items
+
+```http
+  GET /api/items
+```
+
+| Parameter | Type     | Description                |
+| :-------- | :------- | :------------------------- |
+| `api_key` | `string` | **Required**. Your API key |
+
+#### Get item
+
+```http
+  GET /api/items/${id}
+```
+
+| Parameter | Type     | Description                       |
+| :-------- | :------- | :-------------------------------- |
+| `id`      | `string` | **Required**. Id of item to fetch |
+
+#### add(num1, num2)
+
+Takes two numbers and returns the sum.
+
+
+## Demo
+
+Insert gif or link to demo
+
