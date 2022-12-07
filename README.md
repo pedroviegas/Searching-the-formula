@@ -38,12 +38,12 @@ Install my-project with npm
     
 ## Documentation
 
-[Documentation](https://linktodocumentation)
+[Documentation](https://viegaspedro.com)
 
 
 ## Authors
 
-- [@octokatherine](https://www.github.com/octokatherine)
+- [@pedroviegas](https://www.github.com/pedroviegas)
 
 
 ## API Reference
@@ -68,12 +68,15 @@ Install my-project with npm
 | :-------- | :------- | :-------------------------------- |
 | `id`      | `string` | **Required**. Id of item to fetch |
 
-#### add(num1, num2)
-
-Takes two numbers and returns the sum.
 
 
-## Demo
+## 1 - Solution that uses artificial intelligence for voice recognition.
 
-Insert gif or link to demo
 
+
+
+## 2- game that recognizes academic emotions using image recognitio
+
+
+
+## 3 - Quiz that uses emotion recognition.
